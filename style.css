@@ -1,8 +1,36 @@
-estilizar a cor de fundo so seusite como css
-body{background-color: blue
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:cornflowerblue ;
 }
 
-estilizar o título principal do seu site;
-h1{color:floralwhite
-front family:aliceblue
-background:aliceblue
+Estilizar o título principal do seu site
+ h1{
+color:black ;
+font-family: ;
+background: ;
+}
+
+Estilizar os parágrafos
+p{
+color:brown ;
+font-family: ;
+font-size: ;
+background: ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
