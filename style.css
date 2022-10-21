@@ -1,19 +1,19 @@
 body{
-background-color:cornflowerblue ;
+background-color: blue;
 }
 
- h1{
-color:black;
-font-family: ;
-background: ;
+h1{
+color: aliceblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+font-size: larger;
 }
 
 
 p{
-color:brown;
-font-family;
-font-size: ;
-background: ;
+color: aliceblue;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: larger;
 }
 
 
