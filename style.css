@@ -20,6 +20,10 @@ background:;
 #m.png {
        width: 100%;
 }
+.container{
+      width: 10%;
+      margin: 10 auto;
+}
 
 
 
